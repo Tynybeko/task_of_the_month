@@ -29,8 +29,7 @@ git clone https://github.com/Tynybeko/task_of_the_month.git
 ```
 
 
-Для тех кто не знает git то можно скопировать материал из
-этой для:
+Для тех кто не знает git то можно скопировать материал:
 -  [JS](https://github.com/Tynybeko/task_of_the_month/blob/master/index.js) 
 -  [Python](https://github.com/Tynybeko/task_of_the_month/blob/master/main.py) 
 
