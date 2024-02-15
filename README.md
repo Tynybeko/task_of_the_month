@@ -30,10 +30,12 @@ git clone https://github.com/Tynybeko/task_of_the_month.git
 
 
 Для тех кто не знает git то можно скопировать материал из
-этой для JS [ссылки](https://github.com/Tynybeko/task_of_the_month/blob/master/index.js)
+этой для:
+-  [JS](https://github.com/Tynybeko/task_of_the_month/blob/master/index.js) 
+-  [Python](https://github.com/Tynybeko/task_of_the_month/blob/master/main.py) 
 
 ## Правила:
 
 - Коды не должны совпадать с другими участниками!
 - Решение задачи принимается только один раз (перездачи не будет)!
-- 
+- Мы должны убедиться что код писали вы (обьяснение кода и алгоритма)!
