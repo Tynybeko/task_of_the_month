@@ -24,4 +24,4 @@ git clone https://github.com/Tynybeko/task_of_the_month.git
 
 
 Для тех кто не знает git то можно скопировать материал из
-этой  [ссылки](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
+этой  [ссылки](https://github.com/Tynybeko/task_of_the_month/blob/master/index.js)
